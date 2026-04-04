@@ -11,11 +11,12 @@ I specialize in building data-driven and AI-powered solutions, with a focus on h
 
 **Data Analysis**
 - Excel, Power BI, SQL
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib and Plotly)
 
 **Machine Learning**
 - Scikit-learn
-- Predictive Modeling
+- Predictive Modeling & Model Evaluation
+- SHAP and XGBoost
 - Data Preprocessing & Feature Engineering
 
 **Web Development**
