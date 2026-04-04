@@ -43,4 +43,5 @@ I specialize in building data-driven and AI-powered solutions, with a focus on h
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/joseph-jeremiah-2997811b4?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Paper Publication: https://scholar.google.com/citations?user=JCyhAKMAAAAJ&hl=en&authuser=2
 - Email: josephjkunle@gmail.com
