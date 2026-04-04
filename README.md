@@ -42,5 +42,5 @@ I specialize in building data-driven and AI-powered solutions, with a focus on h
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Add your link]
-- Email: [Add your email]
+- LinkedIn: https://www.linkedin.com/in/joseph-jeremiah-2997811b4?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: josephjkunle@gmail.com
