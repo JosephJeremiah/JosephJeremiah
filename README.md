@@ -7,7 +7,7 @@ I specialize in building data-driven and AI-powered solutions, with a focus on h
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
 **Data Analysis**
 - Excel, Power BI, SQL
