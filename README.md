@@ -1,7 +1,7 @@
-# Hi, I'm Joseph 👋
+# Hi, I'm Joseph Jeremiah
 
-🤖 AI & Data Scientist | Health Informatics Researcher
-📊 Data Analyst | Machine Learning Enthusiast  
+AI & Data Scientist | Health Informatics Researcher
+Data Analyst | Machine Learning Enthusiast  
 
 I specialize in building data-driven and AI-powered solutions, with a focus on healthcare and decision support systems.
 
@@ -23,21 +23,18 @@ I specialize in building data-driven and AI-powered solutions, with a focus on h
 - Django framework (API & MVT)
 - HTML, CSS
 
-**Other**
-- Foundational Cybersecurity Knowledge
-
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 - Building AI-powered clinical decision support systems, Electronic Medical Records 
 - Advancing skills in Machine Learning & AI  
 - Applying data science in healthcare and real-world problems  
 
 ---
 
-## 📌 Featured Projects
-- 📊 Data Analysis Dashboard (Power BI / Python)
-- 🤖 Machine Learning Prediction Model
+##  Featured Projects
+-  Data Analysis Dashboard (Power BI / Python)
+-  Machine Learning Prediction Model
 - 🏥 Clinical Decision Support System (In Progress)
 
 ---
